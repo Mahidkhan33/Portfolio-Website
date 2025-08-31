@@ -21,7 +21,5 @@ Tailwind CSS: A utility-first CSS framework for rapid and custom styling, ensuri
 
 JavaScript: Adds interactivity and dynamic behavior, including the smooth scrolling and form functionality.
 
-Live Demo: https://github.com/Mahidkhan33/Portfolio-Website/deployments/github-pages
-
 📞 Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to explore my work and connect with me.
